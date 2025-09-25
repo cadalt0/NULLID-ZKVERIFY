@@ -1,0 +1,19 @@
+﻿node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# ZK artifacts
+witness.wtns
+proof.json
+public.json
+powersOfTau*.ptau
+target/
+*.zkey
+*.r1cs
+*.wasm
+build/
+
+# Secrets
+.env
+relayer/circom-vkey.json
