@@ -105,7 +105,9 @@ The script:
 ## Addresses (Horizen testnet)
 - zkVerify Aggregation Proxy: `0x201B6ba8EA862d83AAA03CFbaC962890c7a4d195`
 - System Domain: `113`
-- Your Recorder Contract: set `REGISTRY_ADDR` in `.env`
+- Recorder Contract (deployed): `0xbc9bc0e9d12c4d22ba1d7e0330ef822a8da2f7db`
+  - Explorer: https://horizen-explorer-testnet.appchain.base.org/address/0xbc9bc0e9d12c4d22ba1d7e0330ef822a8da2f7db
+  - Also set `REGISTRY_ADDR` in `.env` when running the script
 
 References:  
 - Smart Contract Verification: https://docs.zkverify.io/overview/getting-started/smart-contract  
